@@ -212,4 +212,5 @@ To change the database location, you'll need to go to `.env` file and change the
 
 This software is licensed under the MIT License ©
 
+## 🏆 Collaboration Acknowledge
 - Nguyễn Trần Hà Anh 👏
